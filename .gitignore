@@ -1,2 +1,4 @@
 pipfile
 *.lock
+models/*
+docs/*
