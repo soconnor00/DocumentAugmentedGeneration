@@ -1,6 +1,6 @@
 # Document Augmented Generation
 
-This is a fork of https://github.com/afaqueumer/DocQA focused on document augmented generation.
+This is a fork of https://github.com/afaqueumer/DocQA focused on the document augmented generation aspect of the project.
 
 # Requirements
 
